@@ -8,6 +8,6 @@ Mouse.prototype.die = function(){
 	this.dead = true;
 }
 
-console.log('sleep');
+console.log('run');
 
 module.exports = Mouse;
